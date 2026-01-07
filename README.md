@@ -214,9 +214,3 @@ Sequence-to-sequence models and transformer architectures are included within th
 Contributions, improvements, and extensions are welcome via pull requests or issues.
 
 ---
-
-## ⭐ Notes
-
-This repository serves as a consolidated reference for deep learning architectures and techniques across ANN, CNN, and RNN-based models.
-
-
